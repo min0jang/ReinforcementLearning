@@ -1,5 +1,5 @@
 Explanation and Demonstration:
-https://minyoung.info/RL.html
+https://minyoung.info/Reinforcement_Learning.html
 https://www.youtube.com/watch?v=piQjevcBO6c&t=6s
 
 You need to download carRL_env.py before running any of the codes, since it is the "environment" of the simulation
