@@ -1,4 +1,9 @@
 
+[image0]: ./writeup_images/reinforcement_learning.gif "Figure 1"
+
+![alt text][image0]
+
+
 #### Explanation and Demonstration:
 https://minyoung.info/Reinforcement_Learning.html
 
@@ -17,6 +22,7 @@ https://www.youtube.com/watch?v=piQjevcBO6c&t=6s
     - The difference between this one and carRL_import.py is that the user can run the rendering and visually demonstrate that the model is working well.
 
 [//]: # (Image References)
+
 [image1]: ./writeup_images/writeup_img1.png "Figure 1"
 [image2]: ./writeup_images/writeup_img2.png "Figure 2"
 [image3]: ./writeup_images/writeup_img3.png "Figure 3"
